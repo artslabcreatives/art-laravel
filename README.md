@@ -1,3 +1,9 @@
+<p align="center"><a href="https://artslabcreatives.com" target="_blank"><img src="https://artslabcreatives.com/wp-content/uploads/2020/04/Light-Logo.png" width="400" alt="Artslab Creatives"></a></p>
+
+## About Artslab Creatives
+
+We are a digital media agency that believes, through proper strategy formulation, the right amount of creativity and innovation, a brand can truly come to life, communicate and create bonds at an emotional level with their target audience.
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
